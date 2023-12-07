@@ -16,6 +16,9 @@ The "Income Predictor" is a data analysis and machine learning project developed
 
 Initial data cleaning processes were applied to handle missing values and anomalies. EDA was performed to explore data characteristics and relationships. A heatmap was generated to visualize the strength of correlations between different features and the target variable.
 
+![PandasVisualization](./HeatMapScreenshot.png) 
+
+
 ## Tools Used
 
 - **Pandas**: For data manipulation and analysis.
